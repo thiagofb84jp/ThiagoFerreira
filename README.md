@@ -1,9 +1,9 @@
 # Bem-vindo ao meu perfil [Em Manutenção]! :construction:
 
-Oi, me chamo Thiago Ferreira e aqui, você vai encontrar algumas informações importantes sobre mim. :)
+Hello Everyone, 
 
-Já trabalhei com qualidade de software, automação de testes web e API utilizando a linguagem Java 💻
+Me chamo Thiago Ferreira e aqui, você vai encontrar algumas informações importantes sobre mim. :)
 
-💗 Apaixonado por desenvolvimento de software e livros! :books:
+Trabalho com desenvolvimento e testes de sofware. Já trabalhei com automação de testes Web e API utilizando a linguagem Java. 💻
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+Sou apaixonado (💗) por desenvolvimento de software e livros! :books:
