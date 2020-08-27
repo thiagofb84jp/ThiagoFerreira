@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil [Em Manutenção]! :construction:
 
-Hello Everyone, 
+Hello Everyone, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Meu nome é Thiago Ferreira e aqui, você vai encontrar algumas informações importantes sobre mim. :)
 
