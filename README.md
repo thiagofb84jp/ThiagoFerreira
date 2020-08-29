@@ -5,6 +5,8 @@
 🤓 Most of time reading and discovering new books;<br>
 📚 Crazy for books. I have a library in my room.<br>
 
+---------
+
 👷 Nowadays I've worked with:
 * Java and Typescript;
 * Spring Boot framework;
