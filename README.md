@@ -28,6 +28,7 @@
   
 
 ### You can find me here: 🌎
-  
+[![Linkedin Badge](https://img.shields.io/badge/-ThiagoFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-ferreira-barbosa-ctfl-68072310b)](https://www.linkedin.com/in/thiago-ferreira-barbosa-ctfl-68072310b)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiagofb84jp/)](https://www.instagram.com/thiagofb84jp/)
   
 ### Lasted Linkedin Posts: 🌎
