@@ -24,7 +24,7 @@
 * Spring Boot Framework;<br>
 * Selenium Webdriver;<br>
 * Java 11;<br>
-* Modern languages (English) in Uninassau Collegue.<br>
+* Modern languages (English) in [Uninassau](https://www.uninassau.edu.br/) Collegue.<br>
 
 ---------
 
