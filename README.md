@@ -1,9 +1,9 @@
 ### Hello! I'm Thiago! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-💻 Software Developer and Test Engineer;
-🏡 Brazilian, Based in João Pessoa, PB 📍;
-🤓 Most of time reading and discovering new books;
-📚 Crazy for books. I have a library in my room.
+💻 Software Developer and Test Engineer;<br>
+🏡 Brazilian, Based in João Pessoa, PB 📍;<br>
+🤓 Most of time reading and discovering new books;<br>
+📚 Crazy for books. I have a library in my room.<br>
 
 👷 Nowadays I've worked with:
 * Java and Typescript;
