@@ -18,7 +18,9 @@
 * Selenium Webdriver;<br>
 
 💻 Projects that I've worked (for knowledge):
-* [Library control](https://github.com/thiagofb84jp/library-control)<br>    
+* [Library Control](https://github.com/thiagofb84jp/library-control)<br>
+* [Selenium Coding](https://github.com/thiagofb84jp/selenium-coding)<br>
+
 
 📚 Now, I'm studying:
 * Spring Boot Framework;<br>
