@@ -11,7 +11,8 @@
 * Java and Typescript;
 * Spring Boot framework;
 * Angular 9;
-* REST-Assured for API testing.
+* REST-Assured for API testing;
+* Python.
 
 💻 I worked with:
 * Ruby, PHP;<br>
@@ -20,12 +21,13 @@
 💻 Projects that I've worked (for knowledge):
 * [Library Control](https://github.com/thiagofb84jp/library-control)<br>
 * [Selenium Coding](https://github.com/thiagofb84jp/selenium-coding)<br>
+* [Learning Python as Second Language](https://github.com/thiagofb84jp/python-exercises)
 
 
 📚 Now, I'm studying:
+* Python;<br>
 * Spring Boot Framework;<br>
 * Selenium Webdriver;<br>
-* Java 11;<br>
 * Modern languages (English) in [Uninassau](https://www.uninassau.edu.br/) Collegue.<br>
 
 ---------
