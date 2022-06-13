@@ -1,4 +1,4 @@
-### Hello! I'm Thiago! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello! I'm Thiago! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
 💻 Software Developer and Test Engineer;<br>
 🏡 Brazilian, Based in João Pessoa, PB 📍;<br>
