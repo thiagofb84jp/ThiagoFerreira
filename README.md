@@ -9,14 +9,14 @@
 
 👷 Nowadays I've worked with:
 * Java and Typescript;
-* Spring Boot framework;
-* Angular 9;
 * REST-Assured for API testing;
-* Python.
 
 💻 I worked with:
+* Spring Boot framework;
+* Angular 9;
 * Ruby, PHP;<br>
 * Selenium Webdriver;<br>
+* Python.
 
 💻 Projects that I've worked (for knowledge):
 * [Library Control](https://github.com/thiagofb84jp/library-control)<br>
