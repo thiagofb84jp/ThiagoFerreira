@@ -1,6 +1,6 @@
 ### Hello There! I'm Thiago!
 
-💻 Software Developer and Test Engineer;<br>
+💻 Software Developer and Software Developer Engineer in Test;<br>
 🏡 Brazilian, Based in João Pessoa, PB 📍;<br>
 🤓 Most of time reading and discovering new books;<br>
 📚 Crazy for books. I have a library in my room.<br>
