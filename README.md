@@ -1,4 +1,6 @@
-### Hello There! I'm Thiago!
+### Hello There! I'm Thiago! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
+---------
 
 💻 Software Developer and Software Developer Engineer in Test;<br>
 🏡 Brazilian, Based in João Pessoa, PB 📍;<br>
@@ -44,3 +46,14 @@
 - [Page Objects Pattern e Por Quê Aplicá-los nos Seus Testes de UI (User Interface](https://www.linkedin.com/pulse/page-objects-pattern-e-por-qu%C3%AA-aplic%C3%A1-lo-nos-seus-de-thiago/)
 - [Lambda Expressions em Java #Papo Dev](https://www.linkedin.com/pulse/lambda-expressions-em-java-papodev-thiago-ferreira-barbosa-ctfl/)
 - [Testes Regressivos: Por Onde Começar?](https://www.linkedin.com/pulse/testes-regressivos-por-onde-come%C3%A7ar-thiago-ferreira-barbosa-ctfl/)
+
+---------
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofb84jp&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=thiagofb84jp&theme=tokyonight" /></td>
+    </tr>   
+  </table>
+</center>
