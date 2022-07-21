@@ -33,7 +33,7 @@
 * Java;<br>
 * Github;<br>
 * Selenium Webdriver;<br>
-* Licenciate in Modern languages (English) and Bachelor's in History in [Uninter](https://www.uninter.com/) Collegue.<br>
+* Licenciate in Modern languages ([English](https://www.uninter.com/graduacao-ead/licenciatura-em-letras-ingles/)) and Bachelor's in [History](https://www.uninter.com/graduacao-ead/curso-historia-bacharelado/) in [Uninter](https://www.uninter.com/) Collegue.<br>
 
 ---------
 
