@@ -2,7 +2,7 @@
 
 ---------
 
-💻 Software Developer and Software Developer Engineer in Test;<br>
+💻 Software Developer Engineer in Test;<br>
 🏡 Brazilian, Based in João Pessoa, PB 📍;<br>
 🤓 Most of time reading and discovering new books;<br>
 📚 Crazy for books. I have a library in my room.<br>
@@ -12,25 +12,28 @@
 👷 Nowadays I've worked with:
 * Java and Typescript;
 * REST-Assured for API testing;
+* Selenium Webdriver.
 
 💻 I worked with:
 * Spring Boot framework;
 * Angular 9;
 * Ruby, PHP;<br>
-* Selenium Webdriver;<br>
+* Typescript;<br>
 * Python.
 
 💻 Projects that I've worked (for knowledge):
 * [Library Control](https://github.com/thiagofb84jp/library-control)<br>
+* [REST-Assured](https://github.com/thiagofb84jp/rest-assured)<br>
+* [Github](https://github.com/thiagofb84jp/curso-git-1)<br>
 * [Selenium Coding](https://github.com/thiagofb84jp/selenium-coding)<br>
 * [Learning Python as Second Language](https://github.com/thiagofb84jp/python-exercises)
 
 
 📚 Now, I'm studying:
-* Python;<br>
-* Spring Boot Framework;<br>
+* Java;<br>
+* Github;<br>
 * Selenium Webdriver;<br>
-* Modern languages (English) in [Uninassau](https://www.uninassau.edu.br/) Collegue.<br>
+* Licenciate in Modern languages (English) and Bachelor's in History in [Uninter](https://www.uninter.com/) Collegue.<br>
 
 ---------
 
