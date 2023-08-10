@@ -10,9 +10,9 @@
 ---------
 
 👷 Nowadays I've worked with:
-* Java and Typescript;
+* Java;
 * REST-Assured for API testing;
-* Selenium Webdriver.
+* Selenium.
 
 💻 I worked with:
 * Spring Boot framework;
@@ -21,7 +21,7 @@
 * Typescript;<br>
 * Python.
 
-💻 Projects that I've worked (for knowledge):
+💻 Projects that I've worked on (for knowledge):
 * [Library Control](https://github.com/thiagofb84jp/library-control)<br>
 * [REST-Assured](https://github.com/thiagofb84jp/rest-assured)<br>
 * [Github](https://github.com/thiagofb84jp/curso-git-1)<br>
