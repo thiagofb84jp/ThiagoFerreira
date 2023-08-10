@@ -25,7 +25,7 @@
 * [Library Control](https://github.com/thiagofb84jp/library-control)<br>
 * [REST-Assured](https://github.com/thiagofb84jp/rest-assured)<br>
 * [Github](https://github.com/thiagofb84jp/curso-git-1)<br>
-* [Selenium Coding](https://github.com/thiagofb84jp/selenium-coding)<br>
+* [Selenium Coding](https://github.com/thiagofb84jp/selenium)<br>
 * [Learning Python as Second Language](https://github.com/thiagofb84jp/python-exercises)
 
 
