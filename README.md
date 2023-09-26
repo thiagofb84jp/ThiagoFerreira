@@ -26,14 +26,14 @@
 * [REST-Assured](https://github.com/thiagofb84jp/rest-assured)<br>
 * [Github](https://github.com/thiagofb84jp/curso-git-1)<br>
 * [Selenium Coding](https://github.com/thiagofb84jp/selenium)<br>
-* [Learning Python as Second Language](https://github.com/thiagofb84jp/python-exercises)
+* [Learning Python as a Second Language](https://github.com/thiagofb84jp/python-exercises)
 
 
 📚 Now, I'm studying:
 * Java;<br>
 * Github;<br>
 * Selenium Webdriver;<br>
-* Licenciate in Modern languages ([English](https://www.uninter.com/graduacao-ead/licenciatura-em-letras-ingles/)) and Bachelor's in [History](https://www.uninter.com/graduacao-ead/curso-historia-bacharelado/) in [Uninter](https://www.uninter.com/) Collegue.<br>
+* Licenciate in [Mathematics](https://www.uninter.com/graduacao-ead/curso-matematica-licenciatura/) in [Uninter](https://www.uninter.com/) College.<br>
 
 ---------
 
