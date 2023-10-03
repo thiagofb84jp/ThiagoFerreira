@@ -4,8 +4,9 @@
 
 💻 Software Developer Engineer in Test;<br>
 🏡 Brazilian, Based in João Pessoa, PB 📍;<br>
-🤓 Most of time reading and discovering new books;<br>
-📚 Crazy for books. I have a library in my room.<br>
+🤓 Most of the time reading and discovering new books;<br>
+📚 Crazy for books;<br>
+👨‍🏫 Future teacher Maths;<br>
 
 ---------
 
@@ -16,7 +17,6 @@
 
 💻 I worked with:
 * Spring Boot framework;
-* Angular 9;
 * Ruby, PHP;<br>
 * Typescript;<br>
 * Python.
@@ -31,8 +31,8 @@
 
 📚 Now, I'm studying:
 * Java;<br>
-* Github;<br>
-* Selenium Webdriver;<br>
+* SQL;<br>
+* Selenium;<br>
 * Licenciate in [Mathematics](https://www.uninter.com/graduacao-ead/curso-matematica-licenciatura/) in [Uninter](https://www.uninter.com/) College.<br>
 
 ---------
