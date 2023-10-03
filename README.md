@@ -6,7 +6,7 @@
 🏡 Brazilian, Based in João Pessoa, PB 📍;<br>
 🤓 Most of the time reading and discovering new books;<br>
 📚 Crazy for books;<br>
-👨‍🏫 Future teacher Maths;<br>
+👨‍🏫 Future Mathematic Teacher;<br>
 
 ---------
 
