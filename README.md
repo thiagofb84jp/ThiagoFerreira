@@ -31,8 +31,8 @@
 
 📚 Now, I'm studying:
 * Java;<br>
-* SQL;<br>
-* Selenium;<br>
+* Azure DevOps;<br>
+* Playwright;<br>
 * Licenciate in [Mathematics](https://www.uninter.com/graduacao-ead/curso-matematica-licenciatura/) in [Uninter](https://www.uninter.com/) College.<br>
 
 ---------
