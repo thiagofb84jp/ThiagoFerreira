@@ -5,8 +5,7 @@
 💻 **Software Developer Engineer in Test**  
 🏡 **Brazilian, Based in João Pessoa, PB** 📍  
 🤓 **Most of the time reading and discovering new books**  
-📚 **Crazy for books**  
-👨‍🏫 **Future Mathematic Teacher**  
+📚 **Crazy for books**
 
 ---
 
@@ -51,11 +50,28 @@
 
 ---
 
+
+### GitHub Activity 📈
 <div align="center">
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofb84jp&hide=html&layout=compact&theme=tokyonight" /></td>
-        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=thiagofb84jp&theme=tokyonight" /></td>
-    </tr>   
+      <td><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagofb84jp&theme=tokyonight" /></td>
+    </tr>
+    <tr>
+      <td><img width="500px" src="https://github-profile-trophy.vercel.app/?username=thiagofb84jp&theme=tokyonight" /></td>
+    </tr>
+  </table>
+</div>
+
+
+---
+
+### GitHub Stats 📊
+<div align="center">
+  <table>
+    <tr>
+      <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofb84jp&hide=html&layout=compact&theme=tokyonight" /></td>
+      <td><img width="470px" src="https://github-readme-stats.vercel.app/api?username=thiagofb84jp&theme=tokyonight" /></td>
+    </tr>
   </table>
 </div>
