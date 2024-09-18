@@ -1,7 +1,5 @@
 # Hello There! I'm Thiago! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
----
-
 💻 **Software Developer Engineer in Test**  
 🏡 **Brazilian, Based in João Pessoa, PB** 📍  
 🤓 **Most of the time reading and discovering new books**  
