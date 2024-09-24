@@ -40,13 +40,12 @@
 ---
 
 ### Latest LinkedIn Posts: 📕
+- [Do Dinâmico ao Estático: Como TypeScript Transforma a Programação em JavaScript](https://www.linkedin.com/pulse/do-din%25C3%25A2mico-ao-est%25C3%25A1tico-como-typescript-transforma-em-thiago-tpewf/)
 - [JUnit e Além: Explorando Ferramentas Essenciais para Testes Unitários](https://www.linkedin.com/pulse/junit-e-al%25C3%25A9m-explorando-ferramentas-essenciais-para-thiago-4itbf/)
 - [Desvendando TDD, ATDD e BDD: Diferenças e Exemplos Práticos](https://www.linkedin.com/pulse/desvendando-tdd-atdd-e-bdd-diferen%C3%A7as-exemplos-thiago-sydrf/?trackingId=1ckwx4QeRRet2K1KYnT02w%3D%3D)
 - [Como Facilitar os Testes Regressivos de API Usando REST-Assured](https://www.linkedin.com/pulse/como-facilitar-os-testes-regressivos-de-api-usando-thiago/)
-- [Testes de Microserviços: O Que São e Como Aplicá-los](https://www.linkedin.com/pulse/testes-de-microservi%C3%A7os-o-que-s%C3%A3o-e-como-aplic%C3%A1-los-thiago/)
 
 ---
-
 
 ### GitHub Activity 📈
 <div align="center">
