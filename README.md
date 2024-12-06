@@ -40,10 +40,10 @@
 ---
 
 ### Latest LinkedIn Posts: 📕
+- [Robot Framework: Tudo o que Você Precisa Saber para Começar Hoje Mesmo](https://www.linkedin.com/pulse/robot-framework-tudo-o-que-voc%C3%AA-precisa-saber-para-thiago-8ctyf/?trackingId=3PnDiDy7QsCSznAVsT8tsw%3D%3D)
 - [Do Dinâmico ao Estático: Como TypeScript Transforma a Programação em JavaScript](https://www.linkedin.com/pulse/do-din%25C3%25A2mico-ao-est%25C3%25A1tico-como-typescript-transforma-em-thiago-tpewf/)
 - [JUnit e Além: Explorando Ferramentas Essenciais para Testes Unitários](https://www.linkedin.com/pulse/junit-e-al%25C3%25A9m-explorando-ferramentas-essenciais-para-thiago-4itbf/)
 - [Desvendando TDD, ATDD e BDD: Diferenças e Exemplos Práticos](https://www.linkedin.com/pulse/desvendando-tdd-atdd-e-bdd-diferen%C3%A7as-exemplos-thiago-sydrf/?trackingId=1ckwx4QeRRet2K1KYnT02w%3D%3D)
-- [Como Facilitar os Testes Regressivos de API Usando REST-Assured](https://www.linkedin.com/pulse/como-facilitar-os-testes-regressivos-de-api-usando-thiago/)
 
 ---
 
